@@ -23,4 +23,5 @@ Alle_retweeter.xlsx
 AfD_friends.xlsx
 .xlsx dataset of the AfD's retweeters friends
 
-maxqda_tweets
+maxqda_tweets.mx20
+.mx20 dataset of tweets: Tags on sentiment, use of media, hashtags, mentions and topics
